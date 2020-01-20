@@ -1,0 +1,30 @@
+- Hello! Today the guest in our improvised studio is Tanya.
+- hello!
+- And now we'll talk about Kanban. Tanya, what is it?
+- It's special method of development or way of management your project.
+- And what is essence?
+- Kanban based on using special boards, that display all tasks, that your team has. Every task divided by stages
+  and every stage corresponds to colunm on board. So, I can show you a simple sample of Kanban-board.
+  So we can see the simple Kanban-board. We see three columns (new tasks, tasks in work and implemented tasks).
+  Every column has some cards, that are visualising tasks, and when we take task in work, it goes through columns, through all stages.
+  So we can say, that Kanban is a special way of visualization all process, all word, that we do in our projects.
+- Ok, tell, how to work with Kanban?
+- At first, you need to choose stages, whitch you will follow for implementation your tasks. It can be design, development, testing or
+something else, but it's really important to choose stages. Then you can create this board in real physical world)) or use apps,
+for example, Trello or Jira, or something else, that you like.
+  Also it's really useful to set a limit active tasks in one column. It helps you to notice, that one column collected too many tasks,
+  and you have some kind slowdown on this stage of your process of work. And also after creation board, you need to add tasks and try
+  lead every task through all stages on your board. So workers move every task from one column to other column, and you, as manager,
+  can see, what task is implemented or not implemented. And that way you detected disanvantages and suggest decisions and improve
+  process of work. For example, you can change name of task, columns, add new columns, and if you see, for example, that column of design
+  collected a really many tasks, you can hire a new designer. 
+ - Ok, and what is other features of this method?
+ - One of feature of Kanban is thet every task are tracked individually. It's mean, that as task got in work,
+ it's evaluate individually and when task will be implemented, it can be turn in production. So, I can say,
+ that the features of this method is what there is no strict schedule.
+ - Doesn't it make a chaos? 
+ - Of cousrse, it sometimes can create a chaos, but only if we have a work, that are not displayed on board.
+ Bacause we have a untracked work, we lose control. And in case, when our board good organized and thanks visualization
+ we can avoid chaos and make project better.
+ - Thank you, Tanya. I think, it was very useful and interesting. Bye!
+ - Bye!
